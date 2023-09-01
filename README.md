@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Annuity Illustration Tool is a powerful financial planning resource designed to provide insights into annuity products. It aids clients and financial professionals in making informed decisions about their financial future.
+The purpose of this project is to create an illustration tool to assist in the visualization and projection of annuity plans, aiding both clients and companies in making informed decisions regarding financial planning.
 
 ## Instructions
 
