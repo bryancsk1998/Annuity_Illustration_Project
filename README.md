@@ -29,7 +29,7 @@ On the "Annuity_Calc" spreadsheet, you can input specific parameters according t
 
 ### Importing Data
 
-1. Go to the "Data_Sheet" spreadsheet where you will see an import button.
+1. Go to the "Data_Sheet" spreadsheet where you will see an "Import" button.
 2. Click on the import button and select the `BUSINESS_DATA.txt` file.
 
 ### Automating Expected Payment Calculations for a Group
