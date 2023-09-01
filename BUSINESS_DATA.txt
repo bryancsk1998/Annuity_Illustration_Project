@@ -1,0 +1,101 @@
+Client Name	Plan #	Current Age	Age Payments Begin	Years of Payment
+Client # 1	5	60	67	19
+Client # 2	4	50		
+Client # 3	3	40	50	
+Client # 4	1	45	48	18
+Client # 5	2	52		
+Client # 6	2	63		
+Client # 7	4	64		
+Client # 8	3	48	60	
+Client # 9	4	46		
+Client # 10	5	58	63	20
+Client # 11	7	55	64	15
+Client # 12	1	55	68	5
+Client # 13	1	53	54	5
+Client # 14	1	45	58	19
+Client # 15	6	53	67	7
+Client # 16	7	56	58	10
+Client # 17	5	52	61	20
+Client # 18	2	56		
+Client # 19	2	47		
+Client # 20	3	41	41	
+Client # 21	6	50	58	20
+Client # 22	4	58		
+Client # 23	1	51	57	6
+Client # 24	5	40	43	17
+Client # 25	7	47	61	5
+Client # 26	5	57	60	20
+Client # 27	1	52	66	12
+Client # 28	3	67	71	
+Client # 29	7	42	46	16
+Client # 30	1	60	66	8
+Client # 31	1	45	45	19
+Client # 32	1	63	69	6
+Client # 33	1	42	43	19
+Client # 34	5	44	57	5
+Client # 35	1	63	69	20
+Client # 36	1	68	69	17
+Client # 37	2	42		
+Client # 38	2	67		
+Client # 39	3	70	72	
+Client # 40	1	69	78	6
+Client # 41	2	41		
+Client # 42	2	49		
+Client # 43	7	44	59	6
+Client # 44	6	45	52	20
+Client # 45	4	50		
+Client # 46	7	49	63	11
+Client # 47	6	55	57	5
+Client # 48	2	58		
+Client # 49	6	60	73	18
+Client # 50	7	59	60	16
+Client # 51	5	42	55	18
+Client # 52	3	66	78	
+Client # 53	3	49	50	
+Client # 54	1	54	55	12
+Client # 55	4	56		
+Client # 56	2	58		
+Client # 57	3	63	78	
+Client # 58	3	51	64	
+Client # 59	4	55		
+Client # 60	1	41	51	12
+Client # 61	1	54	63	17
+Client # 62	7	42	57	17
+Client # 63	4	53		
+Client # 64	2	58		
+Client # 65	1	54	66	20
+Client # 66	7	47	57	8
+Client # 67	2	60		
+Client # 68	2	49		
+Client # 69	3	53	58	
+Client # 70	7	50	50	15
+Client # 71	7	44	46	9
+Client # 72	1	56	59	14
+Client # 73	4	51		
+Client # 74	5	68	72	5
+Client # 75	3	57	64	
+Client # 76	3	45	48	
+Client # 77	1	54	64	11
+Client # 78	3	51	62	
+Client # 79	2	46		
+Client # 80	3	66	66	
+Client # 81	7	62	68	17
+Client # 82	3	57	70	
+Client # 83	5	47	47	7
+Client # 84	2	54		
+Client # 85	1	42	51	10
+Client # 86	7	45	48	9
+Client # 87	7	60	61	13
+Client # 88	1	63	73	6
+Client # 89	2	70		
+Client # 90	2	69		
+Client # 91	3	63	66	
+Client # 92	3	68	80	
+Client # 93	7	63	69	17
+Client # 94	3	45	59	
+Client # 95	3	55	65	
+Client # 96	3	68	69	
+Client # 97	1	65	80	12
+Client # 98	3	58	60	
+Client # 99	3	41	51	
+Client # 100	3	61	70	
