@@ -10,7 +10,7 @@ The purpose of this project is to create an illustration tool to assist in the v
 
 1. Download `ANNUITY_ILLUS.xlsm` and `BUSINESS_DATA.txt` files.
 2. Right-click on `ANNUITY_ILLUS.xlsm` and select "Properties."
-3. At the bottom of the Properties screen, tick the "Unblock" checkbox and click "Apply."
+3. At the bottom of the Properties screen, under the "General" tab, tick the "Unblock" checkbox and click "Apply."
 4. Open the `ANNUITY_ILLUS.xlsm` file.
 
 ### Using the Annuity Illustration Tool
